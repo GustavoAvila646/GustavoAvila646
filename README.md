@@ -1,2 +1,2 @@
 #  Sobre mim
-Sim eu vou ter algum dia um passaro chamado Tofu
+Ih, me segura que vou ser um futuro programador
