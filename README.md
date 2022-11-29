@@ -1,4 +1,4 @@
-- Meu Instagram @gustavoavl_  segue lá😁
+- Meu Instagram é @gustavoavl_     segue lá😁
 
 - 👀 Eu tenho interesse em aprender a programar novas linguagens.
 
