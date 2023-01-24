@@ -1,5 +1,5 @@
 # Sobre mim
-- 👻Segue lá no meu Instagram @___ _gustavo.avl_ ___
+- 👻Segue lá no meu Instagram @_ _gustavo.avl_ _
 
 - ✨ Eu tenho interesse em aprender a programar novas linguagens
 
