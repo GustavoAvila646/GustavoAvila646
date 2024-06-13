@@ -5,7 +5,7 @@
 
 - Futuro programador 🤪💪🔥
 
-![professor-rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=professor-rafael&show_icons=true&theme=radical)
+![GustavoAvila646 GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAvila646&show_icons=true&theme=radical)
 
 
 [![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoAvila646)
