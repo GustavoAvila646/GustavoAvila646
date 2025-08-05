@@ -1,9 +1,7 @@
 # Sobre mim
-- 👻Segue lá no meu Instagram @_gu.avila__
+- Instagram @_gu.avila__
 
-- ✨ Eu tenho interesse em aprender a programar novas linguagens
-
-- Futuro programador 🤪💪🔥
+- Acadêmico de Engenharia de Software - FAG
 
 [![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoAvila646)
 [![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
